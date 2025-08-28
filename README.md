@@ -3,6 +3,7 @@ This repository contains a Jupyter notebook that serves as a hands-on introducti
 
 📁 Files
 Quantum Algorithm-Copy1.ipynb: The core Jupyter notebook for the project.
+<img src="1.png" width="400">  
 
 💡 Key Concepts Explored
 The notebook demystifies the world of quantum computing by illustrating several fundamental concepts:
@@ -25,7 +26,7 @@ pip install qiskit qiskit-aer numpy matplotlib
 🚀 How to Run
 Clone this repository:
 
-git clone [Your-Repository-URL]
+git clone https://github.com/aliemami94/Quantum-Computing-with-Qiskit
 
 Navigate to the repository directory.
 
